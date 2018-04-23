@@ -1,0 +1,19 @@
+.logo{    
+    margin: 10px;
+    display: flex;
+}
+.item-logo{
+    margin: 5px;
+    width: 500px;
+    height: 235px;
+}
+.text{    
+    margin: 10px;
+    display: flex;
+}
+.item-text{
+    background-color: antiquewhite;
+    margin: 5px;
+    width: 500px;
+    height: 235px;
+}
